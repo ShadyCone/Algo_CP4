@@ -6,10 +6,10 @@ print("hi everyone")
 First_name ="Luca"
 Last_name ="Ben"
 Date =2020
-print (First_name +"_" + Last_name +"_"+str((Date)
+print (First_name +"_" + Last_name +"_" + str(Date))
 
 a=First_name
 First_name=Last_name
 Last_name = a
 
-print (First_name +"_" + Last_name +"_"+str((Date+60)
+print (First_name +"_" + Last_name +"_"+str(Date+60))
